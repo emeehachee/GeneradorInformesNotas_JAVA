@@ -1,0 +1,310 @@
+id;nombre;apellidos;asignatura;trimestre;nota
+1001;Paula;Iglesias Crespo;Biología;1;7,75
+1001;Paula;Iglesias Crespo;Biología;2;8,5
+1001;Paula;Iglesias Crespo;Biología;3;10
+1001;Paula;Iglesias Crespo;Física;1;3,5
+1001;Paula;Iglesias Crespo;Física;2;3
+1001;Paula;Iglesias Crespo;Física;3;8,5
+1001;Paula;Iglesias Crespo;Lengua;1;8
+1001;Paula;Iglesias Crespo;Lengua;2;9,75
+1001;Paula;Iglesias Crespo;Lengua;3;3,5
+1001;Paula;Iglesias Crespo;Matemáticas;1;7
+1001;Paula;Iglesias Crespo;Matemáticas;2;7
+1001;Paula;Iglesias Crespo;Química;1;9
+1001;Paula;Iglesias Crespo;Química;3;9,5
+1002;Óscar;Sánchez Ñíguez;Física;1;9,5
+1002;Óscar;Sánchez Ñíguez;Física;2;6,25
+1002;Óscar;Sánchez Ñíguez;Física;3;9,5
+1002;Óscar;Sánchez Ñíguez;Inglés;2;3,75
+1002;Óscar;Sánchez Ñíguez;Inglés;3;6
+1002;Óscar;Sánchez Ñíguez;Lengua;1;10
+1002;Óscar;Sánchez Ñíguez;Lengua;2;7,5
+1002;Óscar;Sánchez Ñíguez;Lengua;3;7
+1002;Óscar;Sánchez Ñíguez;Química;1;8,5
+1002;Óscar;Sánchez Ñíguez;Química;2;6,25
+1002;Óscar;Sánchez Ñíguez;Química;3;3
+1002;Óscar;Sánchez Ñíguez;Tecnología;1;6,75
+1002;Óscar;Sánchez Ñíguez;Tecnología;2;10
+1002;Óscar;Sánchez Ñíguez;Tecnología;3;6,5
+1003;Sara;Muñoz Peña;Biología;1;6,75
+1003;Sara;Muñoz Peña;Biología;2;7,35
+1003;Sara;Muñoz Peña;Biología;3;4
+1003;Sara;Muñoz Peña;Educación Física;1;5,25
+1003;Sara;Muñoz Peña;Educación Física;2;4,75
+1003;Sara;Muñoz Peña;Educación Física;3;10
+1003;Sara;Muñoz Peña;Historia;1;3,25
+1003;Sara;Muñoz Peña;Historia;2;9,5
+1003;Sara;Muñoz Peña;Historia;3;8
+1003;Sara;Muñoz Peña;Matemáticas;1;10
+1003;Sara;Muñoz Peña;Matemáticas;2;7,25
+1003;Sara;Muñoz Peña;Matemáticas;3;7
+
+1003;Sara;Muñoz Peña;Química;2;9,75
+1003;Sara;Muñoz Peña;Química;3;5
+1003;Sara;Muñoz Peña;Lengua;2
+1005;Iker;Gutiérrez Ibáñez;Biología;1;8
+1005;Iker;Gutiérrez Ibáñez;Biología;2;3,25
+1005;Iker;Gutiérrez Ibáñez;Biología;3;7
+1005;Iker;Gutiérrez Ibáñez;Educación Física;1;6,75
+1005;Iker;Gutiérrez Ibáñez;Educación Física;2;4,25
+1005;Iker;Gutiérrez Ibáñez;Educación Física;3;6
+1005;Iker;Gutiérrez Ibáñez;Inglés;1;9
+1005;Iker;Gutiérrez Ibáñez;Inglés;3;3
+1005;Iker;Gutiérrez Ibáñez;Matemáticas;1;4,5
+1005;Iker;Gutiérrez Ibáñez;Matemáticas;2;3,5
+1005;Iker;Gutiérrez Ibáñez;Matemáticas;3;9,5
+1005;Iker;Gutiérrez Ibáñez;Tecnología;1;4,25
+1005;Iker;Gutiérrez Ibáñez;Tecnología;2;7
+1005;Iker;Gutiérrez Ibáñez;Tecnología;3;4
+1005;Iker;Gutiérrez Ibáñez;Inglés;1;7,5;
+1006;Inés;Hernández Pardo;Educación Física;1;9
+1006;Inés;Hernández Pardo;Educación Física;2;10
+1006;Inés;Hernández Pardo;Educación Física;3;7,5
+1006;Inés;Hernández Pardo;Física;1;9,25
+1006;Inés;Hernández Pardo;Física;2;7,65
+1006;Inés;Hernández Pardo;Física;3;5
+1006;Inés;Hernández Pardo;Historia;1;5
+1006;Inés;Hernández Pardo;Historia;2;9,5
+1006;Inés;Hernández Pardo;Historia;3;7
+1006;Inés;Hernández Pardo;Lengua;1;4,5
+1006;Inés;Hernández Pardo;Lengua;2;8,5
+1006;Inés;Hernández Pardo;Lengua;3;7
+1006;Inés;Hernández Pardo;Matemáticas;1;6,01
+1006;Inés;Hernández Pardo;Matemáticas;2;6
+1006;Inés;Hernández Pardo;Química;2;3
+1006;Inés;Hernández Pardo;Química;3;4,5
+1006;Inés;Hernández Pardo;Química;3;
+1008;Sergio;Blanco Calvo;Biología;1;7
+1008;Sergio;Blanco Calvo;Biología;2;7
+1008;Sergio;Blanco Calvo;Biología;3;4
+1008;Sergio;Blanco Calvo;Física;1;4
+1008;Sergio;Blanco Calvo;Física;2;9,5
+1008;Sergio;Blanco Calvo;Física;3;7,5
+1008;Sergio;Blanco Calvo;Historia;1;0
+1008;Sergio;Blanco Calvo;Historia;2;5,00
+1008;Sergio;Blanco Calvo;Historia;3;10
+1008;Sergio;Blanco Calvo;Lengua;1;8,75
+1008;Sergio;Blanco Calvo;Lengua;2;5,25
+1008;Sergio;Blanco Calvo;Lengua;3;3
+1008;Sergio;Blanco Calvo;Matemáticas;1;4
+1008;Sergio;Blanco Calvo;Matemáticas;2;3
+1008;Sergio;Blanco Calvo;Matemáticas;3;3
+1008;Sergio;Blanco Calvo;Historia;2;NP
+1008;Sergio;Blanco Calvo;Lengua;1;abc
+1009;Irene;Pérez Lobo;Biología;1;4,99
+1009;Irene;Pérez Lobo;Biología;2;5
+1009;Irene;Pérez Lobo;Biología;3;0,00
+1009;Irene;Pérez Lobo;Física;1;6
+1009;Irene;Pérez Lobo;Física;2;9,5
+1009;Irene;Pérez Lobo;Física;3;8,5
+1009;Irene;Pérez Lobo;Historia;1;7,5
+1009;Irene;Pérez Lobo;Historia;2;5
+1009;Irene;Pérez Lobo;Historia;3;10
+1009;Irene;Pérez Lobo;Lengua;1;4,41
+1009;Irene;Pérez Lobo;Lengua;2;9,5
+1009;Irene;Pérez Lobo;Lengua;3;7
+1009;Irene;Pérez Lobo;Matemáticas;1;8,5
+1009;Irene;Pérez Lobo;Matemáticas;2;3,5
+1009;Irene;Pérez Lobo;Matemáticas;3;3
+1009;Irene;Pérez Lobo;Física;2;7,5,2
+1009;Irene;Pérez Lobo;Inglés;3;-2
+1011;Daniel;Rodríguez Nieto;Educación Física;1;7
+1011;Daniel;Rodríguez Nieto;Educación Física;2;8
+1011;Daniel;Rodríguez Nieto;Educación Física;3;10
+1011;Daniel;Rodríguez Nieto;Historia;1;5,5
+1011;Daniel;Rodríguez Nieto;Historia;2;4,5
+1011;Daniel;Rodríguez Nieto;Historia;3;8
+1011;Daniel;Rodríguez Nieto;Inglés;1;8,75
+1011;Daniel;Rodríguez Nieto;Inglés;2;3,5
+1011;Daniel;Rodríguez Nieto;Inglés;3;5,5
+1011;Daniel;Rodríguez Nieto;Matemáticas;1;3,5
+1011;Daniel;Rodríguez Nieto;Matemáticas;2;8,75
+1011;Daniel;Rodríguez Nieto;Matemáticas;3;6,89
+1011;Daniel;Rodríguez Nieto;Tecnología;1;9,59
+1011;Daniel;Rodríguez Nieto;Tecnología;2;4,07
+1011;Daniel;Rodríguez Nieto;Biología;1;10,01
+1012;Nuria;Ramos Herrero;Historia;2;NP
+1012;Nuria;Ramos Herrero;Historia;2;4,5
+1012;Nuria;Ramos Herrero;Historia;3;7
+1012;Nuria;Ramos Herrero;Lengua;1;4,93
+1012;Nuria;Ramos Herrero;Lengua;2;9,5
+1012;Nuria;Ramos Herrero;Lengua;3;9
+1012;Nuria;Ramos Herrero;Matemáticas;1;9,5
+1012;Nuria;Ramos Herrero;Matemáticas;2;4,74
+1012;Nuria;Ramos Herrero;Matemáticas;3;8
+1012;Nuria;Ramos Herrero;Química;1;4
+1012;Nuria;Ramos Herrero;Química;2;8,25
+1012;Nuria;Ramos Herrero;Química;3;7
+1012;Nuria;Ramos Herrero;Tecnología;1;6
+1012;Nuria;Ramos Herrero;Tecnología;2;7,96
+1012;Nuria;Ramos Herrero;Tecnología;3;3,75
+1014;Pablo;García Gil;Biología;1;6
+1014;Pablo;García Gil;Biología;2;6,5
+1014;Pablo;García Gil;Biología;3;4
+1014;Pablo;García Gil;Educación Física;1;10
+1014;Pablo;García Gil;Educación Física;2;6
+1014;Pablo;García Gil;Educación Física;3;8
+1014;Pablo;García Gil;Historia;1;8,75
+1014;Pablo;García Gil;Historia;2;10
+1014;Pablo;García Gil;Historia;3;5,5
+1014;Pablo;García Gil;Lengua;1;9
+1014;Pablo;García Gil;Lengua;2;5
+1014;Pablo;García Gil;Lengua;3;4
+1014;Pablo;García Gil;Matemáticas;1;6,75
+1014;Pablo;García Gil;Matemáticas;2;4,5
+1014;Pablo;García Gil;Matemáticas;3;4
+1014;Pablo;García Gil;Matemáticas;2;11
+1015;Noelia;Domínguez Vega;Educación Física;1;5,5
+1015;Noelia;Domínguez Vega;Educación Física;2;10
+1015;Noelia;Domínguez Vega;Educación Física;3;9,25
+1015;Noelia;Domínguez Vega;Inglés;1;3,5
+1015;Noelia;Domínguez Vega;Inglés;2;3,5
+1015;Noelia;Domínguez Vega;Inglés;3;4,5
+1015;Noelia;Domínguez Vega;Lengua;1;6,5
+1015;Noelia;Domínguez Vega;Lengua;2;9,75
+1015;Noelia;Domínguez Vega;Lengua;3;6
+1015;Noelia;Domínguez Vega;Matemáticas;1;5,5
+1015;Noelia;Domínguez Vega;Matemáticas;2;9,5
+1015;Noelia;Domínguez Vega;Matemáticas;3;8
+1015;Noelia;Domínguez Vega;Tecnología;2;3,5
+1015;Noelia;Domínguez Vega;Tecnología;3;6
+1015;Noelia;Domínguez Vega;Historia;3;NP;x
+1017;Mateo;Cabrera Zúñiga;Física;1;9
+1017;Mateo;Cabrera Zúñiga;Física;2;7,5
+1017;Mateo;Cabrera Zúñiga;Física;3;9
+1017;Mateo;Cabrera Zúñiga;Inglés;2;4,5
+1017;Mateo;Cabrera Zúñiga;Inglés;3;8,75
+1017;Mateo;Cabrera Zúñiga;Lengua;1;10
+1017;Mateo;Cabrera Zúñiga;Lengua;2;9,75
+1017;Mateo;Cabrera Zúñiga;Matemáticas;1;8
+1017;Mateo;Cabrera Zúñiga;Matemáticas;2;4,5
+1017;Mateo;Cabrera Zúñiga;Matemáticas;3;8,5
+1017;Mateo;Cabrera Zúñiga;Tecnología;1;3
+1017;Mateo;Cabrera Zúñiga;Tecnología;2;8,75
+1017;Mateo;Cabrera Zúñiga;Tecnología;3;9,5
+1017;Mateo;Cabrera Zúñiga;Biología;4;6
+1017;Mateo;Cabrera Zúñiga;Física;0;6
+1017;Mateo;Cabrera Zúñiga;Lengua;T2;6
+1018;Raquel;Marcos Revilla;Educación Física;1;11
+1018;Raquel;Marcos Revilla;Educación Física;1;5
+1018;Raquel;Marcos Revilla;Educación Física;2;8,4
+1018;Raquel;Marcos Revilla;Educación Física;3;4
+1018;Raquel;Marcos Revilla;Historia;1;3,29
+1018;Raquel;Marcos Revilla;Historia;2;5
+1018;Raquel;Marcos Revilla;Historia;3;5,5
+1018;Raquel;Marcos Revilla;Inglés;1;4,5
+1018;Raquel;Marcos Revilla;Inglés;2;5,75
+1018;Raquel;Marcos Revilla;Inglés;3;6
+1018;Raquel;Marcos Revilla;Matemáticas;1;4,5
+1018;Raquel;Marcos Revilla;Matemáticas;2;3
+1018;Raquel;Marcos Revilla;Matemáticas;3;5,75
+1018;Raquel;Marcos Revilla;Tecnología;1;7
+1018;Raquel;Marcos Revilla;Tecnología;2;4,5
+1018;Raquel;Marcos Revilla;Tecnología;3;3
+1020;Álvaro;Martín Cuesta;Educación Física;1;3,5
+1020;Álvaro;Martín Cuesta;Educación Física;2;7,5
+1020;Álvaro;Martín Cuesta;Historia;1;8
+1020;Álvaro;Martín Cuesta;Historia;2;6,5
+1020;Álvaro;Martín Cuesta;Inglés;2;9,5
+1020;Álvaro;Martín Cuesta;Inglés;3;3
+1020;Álvaro;Martín Cuesta;Lengua;1;4
+1020;Álvaro;Martín Cuesta;Lengua;2;5
+1020;Álvaro;Martín Cuesta;Lengua;3;6,5
+1020;Álvaro;Martín Cuesta;Matemáticas;1;9
+1020;Álvaro;Martín Cuesta;Matemáticas;2;8
+1020;Álvaro;Martín Cuesta;Matemáticas;3;9,44
+1020;Álvaro;Martín Cuesta;Química;5;NP
+1021;Carmen;Vázquez Mora;Biología;1;5
+1021;Carmen;Vázquez Mora;Biología;2;9
+1021;Carmen;Vázquez Mora;Biología;3;6,25
+1021;Carmen;Vázquez Mora;Educación Física;1;7
+1021;Carmen;Vázquez Mora;Educación Física;2;3
+1021;Carmen;Vázquez Mora;Educación Física;3;7
+1021;Carmen;Vázquez Mora;Física;1;5
+1021;Carmen;Vázquez Mora;Física;2;6
+1021;Carmen;Vázquez Mora;Física;3;3
+1021;Carmen;Vázquez Mora;Matemáticas;1;5,5
+1021;Carmen;Vázquez Mora;Matemáticas;2;3,8
+1021;Carmen;Vázquez Mora;Matemáticas;3;4
+1021;Carmen;Vázquez Mora;Tecnología;1;4
+1021;Carmen;Vázquez Mora;Tecnología;2;10
+1021;Carmen;Vázquez Mora;Tecnología;3;10
+abc;Carmen;Vázquez Mora;Lengua;1;6
+-5;Carmen;Vázquez Mora;Lengua;2;6
+0;Carmen;Vázquez Mora;Lengua;3;6
+;Carmen;Vázquez Mora;Lengua;3;6
+x;Carmen;Vázquez Mora;Lengua;9;NP
+1023;Rubén;Moreno Diez;Biología;2;7
+1023;Rubén;Moreno Diez;Física;2;7,5
+1023;Rubén;Moreno Diez;Física;3;6,42
+1023;Rubén;Moreno Diez;Historia;1;10
+1023;Rubén;Moreno Diez;Historia;2;6,5
+1023;Rubén;Moreno Diez;Historia;3;8
+1023;Rubén;Moreno Diez;Química;1;5
+1023;Rubén;Moreno Diez;Química;2;7,5
+1023;Rubén;Moreno Diez;Química;3;3
+1023;Rubén;Moreno Diez;Tecnología;1;3
+
+1023;Rubén;Moreno Diez;Tecnología;2;5,5
+1023;Rubén;Moreno Diez;Tecnología;3;5,5
+1024;Elena;Núñez Ortega;Biología;1;7,5
+1024;Elena;Núñez Ortega;Biología;2;4
+1024;Elena;Núñez Ortega;Biología;3;4
+1024;Elena;Núñez Ortega;Historia;1;6,75
+1024;Elena;Núñez Ortega;Historia;2;3
+1024;Elena;Núñez Ortega;Historia;3;7,75
+1024;Elena;Núñez Ortega;Lengua;1;5
+1024;Elena;Núñez Ortega;Lengua;2;4
+1024;Elena;Núñez Ortega;Lengua;3;3,5
+1024;Elena;Núñez Ortega;Matemáticas;1;8,75
+1024;Elena;Núñez Ortega;Matemáticas;2;3,5
+1024;Elena;Núñez Ortega;Matemáticas;3;4,75
+1024;Elena;Núñez Ortega;Química;3;3
+1026;Ángel;Santos Cano;Biología;1;4,5
+1026;Ángel;Santos Cano;Biología;2;7,5
+1026;Ángel;Santos Cano;Biología;3;7,75
+1026;Ángel;Santos Cano;Historia;1;4
+1026;Ángel;Santos Cano;Historia;2;9
+1026;Ángel;Santos Cano;Historia;3;5
+1026;Ángel;Santos Cano;Inglés;1;6
+1026;Ángel;Santos Cano;Inglés;2;7
+1026;Ángel;Santos Cano;Inglés;3;6,5
+1026;Ángel;Santos Cano;Lengua;2;4,5
+1026;Ángel;Santos Cano;Lengua;3;7,5
+1026;Ángel;Santos Cano;Tecnología;1;6,25
+1026;Ángel;Santos Cano;Tecnología;2;10
+1026;Ángel;Santos Cano;Tecnología;3;9
+1027;Marta;López Bernal;Física;1;3,25
+1027;Marta;López Bernal;Física;2;9
+1027;Marta;López Bernal;Física;3;7,25
+1027;Marta;López Bernal;Inglés;1;3,5
+1027;Marta;López Bernal;Inglés;2;8,5
+1027;Marta;López Bernal;Inglés;3;10
+1027;Marta;López Bernal;Lengua;1;10
+1027;Marta;López Bernal;Lengua;2;7
+1027;Marta;López Bernal;Lengua;3;3,75
+1027;Marta;López Bernal;Matemáticas;1;6,25
+1027;Marta;López Bernal;Matemáticas;2;6
+1027;Marta;López Bernal;Matemáticas;3;4
+1027;Marta;López Bernal;Tecnología;1;7,49
+1027;Marta;López Bernal;Tecnología;2;9,5
+1027;Marta;López Bernal;Tecnología;3;9
+1030;Hugo;Esteban Aguado;Física;1;4,5
+1030;Hugo;Esteban Aguado;Física;2;8,5
+1030;Hugo;Esteban Aguado;Física;3;5,3
+1030;Hugo;Esteban Aguado;Historia;1;4,5
+1030;Hugo;Esteban Aguado;Historia;2;5
+1030;Hugo;Esteban Aguado;Historia;3;6,5
+1030;Hugo;Esteban Aguado;Lengua;1;7,5
+1030;Hugo;Esteban Aguado;Lengua;2;7
+1030;Hugo;Esteban Aguado;Lengua;3;4,25
+1030;Hugo;Esteban Aguado;Química;1;6
+1030;Hugo;Esteban Aguado;Química;2;8,25
+1030;Hugo;Esteban Aguado;Química;3;10
+1030;Hugo;Esteban Aguado;Tecnología;1;8,5
+1030;Hugo;Esteban Aguado;Tecnología;3;7
+1011;Daniel;Rodríguez Nieto;Educación Física;3;4,5
+1001;Paula;Iglesias Crespo;Biología;1;7,75
+1031;Iker;Vidal Ñúñez;Lengua;1;NP
+1031;Iker;Vidal Ñúñez;Lengua;2;
+1031;Iker;Vidal Ñúñez;Inglés;1;12
